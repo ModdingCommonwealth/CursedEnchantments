@@ -1,9 +1,16 @@
-# Fabric Example Mod
+# CursedEnchantments Mod
 
-## Setup
+This mod adds 2 cursed and useless enchantments in your game
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## Goofy
 
-## License
+Curse enchantment, it will be enrage you all time.
+![IMAGE](https://github.com/ModdingCommonwealth/MCWImages/blob/main/dasadsasdaddasdasdsdasdsdda.png?raw=true)
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## Goody
+
+Very good enchantment, it will give you many boosts
+![IMAGE](https://github.com/ModdingCommonwealth/MCWImages/blob/main/ddadsaddsad.png?raw=true)
+
+## Forge?
+![Forge?](https://github.com/ModdingCommonwealth/MCWImages/blob/main/quilt_fabric-banner.png?raw=true)
