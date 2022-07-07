@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "cursedenchantments",
+  "version": "${version}",
+
+  "name": "Cursed Enchantments",
+  "description": "This mod adds 2 cursed and useless enchantments in your game",
+  "authors": [
+    "Koshak_Mine"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "WTFPL",
+  "icon": "assets/cursedenchantments/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.koshakmine.cursedenchantments.Main"
+    ]
+  },
+  "mixins": [
+    "cursedenchantments.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
