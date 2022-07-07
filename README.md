@@ -1,6 +1,6 @@
 # CursedEnchantments Mod
 
-This mod adds 2 cursed and useless enchantments in your game
+This mod adds 2 cursed and useless enchantments in your game.
 
 ## Goofy
 
@@ -9,7 +9,7 @@ Curse enchantment, it will be enrage you all time.
 
 ## Goody
 
-Very good enchantment, it will give you many boosts
+Very good enchantment, it will give you many boosts.
 ![IMAGE](https://github.com/ModdingCommonwealth/MCWImages/blob/main/dasadsasdaddasdasdsdasdsdda.png?raw=true)
 
 ## Forge?
